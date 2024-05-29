@@ -1,0 +1,23 @@
+name: yolov4
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.7
+  - pip
+  - matplotlib
+  - opencv
+  - cudnn  # Conditionally included for GPU support
+  - cudatoolkit=10.1.243  # Conditionally included for GPU support
+  - pip:
+    - opencv-python==4.1.1.26
+    - lxml
+    - tqdm
+    - absl-py
+    - easydict
+    - pillow
+    - pytesseract
+    - tensorflow-gpu==2.3.0rc0   # GPU version of TensorFlow
+    - tensorflow==2.3.0rc0       # Fallback to CPU version if GPU is not available
