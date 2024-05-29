@@ -38,7 +38,7 @@ flags.DEFINE_boolean('crop', False, 'crop detections from images')
 
 flags.DEFINE_boolean('plate', False, 'perform license plate recognition')
 
-DEMO_VIDEO = 'new.mp4'
+DEMO_VIDEO = 'demo_vid.mp4'
 
 def image_resize(image, width=None, height=None, inter=cv2.INTER_AREA):
     # initialize the dimensions of the image to be resized and
