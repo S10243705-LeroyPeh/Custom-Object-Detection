@@ -79,7 +79,7 @@ def main(_argv):
     use_webcam = st.sidebar.button('Use Webcam')
 
     confidence = st.sidebar.slider('Confidence', min_value =0.0,max_value = 1.0,value = 0.3)
-    video_file_buffer = st.sidebar.file_uploader("Upload a video", type=[ "mp4", "mov",'avi','asf', 'm4v' ])
+    video_file_buffer = st.sidebar.file_uploader("Upload a video/image", type=[ "mp4", "mov",'avi','asf', 'm4v','png','jpeg'])
 
     tfflie = tempfile.NamedTemporaryFile(delete=False)
 
