@@ -73,9 +73,9 @@ def image_resize(image, width=None, height=None, inter=cv2.INTER_AREA):
 
 def main(_argv):
 
-    st.title('Custom Object Detection using Streamlit')
+    st.title('Compost Object Detection')
 
-    st.sidebar.title('Custom Object Detection')
+    st.sidebar.title('Compost Object Detection')
     use_webcam = st.sidebar.button('Use Webcam')
 
     confidence = st.sidebar.slider('Confidence', min_value =0.0,max_value = 1.0,value = 0.3)
