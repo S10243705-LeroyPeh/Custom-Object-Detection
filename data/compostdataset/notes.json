@@ -1,0 +1,93 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Airplane"
+    },
+    {
+      "id": 1,
+      "name": "Car"
+    },
+    {
+      "id": 2,
+      "name": "apple"
+    },
+    {
+      "id": 3,
+      "name": "apple core"
+    },
+    {
+      "id": 4,
+      "name": "banana"
+    },
+    {
+      "id": 5,
+      "name": "banana peel"
+    },
+    {
+      "id": 6,
+      "name": "cardboard"
+    },
+    {
+      "id": 7,
+      "name": "coffee ground"
+    },
+    {
+      "id": 8,
+      "name": "compost"
+    },
+    {
+      "id": 9,
+      "name": "dried leaves"
+    },
+    {
+      "id": 10,
+      "name": "fungus"
+    },
+    {
+      "id": 11,
+      "name": "leafy greens"
+    },
+    {
+      "id": 12,
+      "name": "meat"
+    },
+    {
+      "id": 13,
+      "name": "unidentified object"
+    },
+    {
+      "id": 14,
+      "name": "unknown browns"
+    },
+    {
+      "id": 15,
+      "name": "unknown greens"
+    },
+    {
+      "id": 16,
+      "name": "watermelon"
+    },
+    {
+      "id": 17,
+      "name": "watermelon rinds"
+    },
+    {
+      "id": 18,
+      "name": "white worms"
+    },
+    {
+      "id": 19,
+      "name": "worm cancer"
+    },
+    {
+      "id": 20,
+      "name": "worms"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
