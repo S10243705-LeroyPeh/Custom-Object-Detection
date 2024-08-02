@@ -1,5 +1,3 @@
-Airplane
-Car
 apple
 apple core
 banana

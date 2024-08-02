@@ -1,0 +1,6 @@
+./data/compostdataset/images/img21.jpeg
+./data/compostdataset/images/img22.png
+./data/compostdataset/images/img23.jpeg
+./data/compostdataset/images/img24.jpg
+./data/compostdataset/images/img25.jpg
+./data/compostdataset/images/img26.jpeg
